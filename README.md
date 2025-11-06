@@ -1,15 +1,15 @@
-# DREAM GAMES CASE STUDY - MATCH-3 BLAST GAME
+# DREAM GAMES CASE STUDY - MATCH-2 BLAST GAME
 **Unity 6000.0.32f1 | C# | Portrait (9:16) | Mobile-Optimized**
 
 ---
 
 ## PROJECT OVERVIEW
 
-This project implements a complete match-3 blast game according to Dream Games' specifications. Players clear obstacles by matching colored cubes and utilizing rockets, progressing through 10 carefully designed levels with increasing complexity.
+This project implements a complete match-2 blast game according to Dream Games' specifications. Players clear obstacles by matching colored cubes and utilizing rockets, progressing through 10 carefully designed levels with increasing complexity.
 
 ### Core Game Mechanics
 
-**Match-3 System**
+**Match-2 System**
 - Minimum 2 adjacent cubes (horizontal/vertical) can be matched and blasted
 - Groups of 4+ cubes create rockets at the tapped location  
 - Rocket direction (horizontal/vertical) is randomly determined
