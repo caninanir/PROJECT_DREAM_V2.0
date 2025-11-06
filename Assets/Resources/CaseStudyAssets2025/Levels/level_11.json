@@ -1,0 +1,33 @@
+{
+    "level_number": 11,
+    "grid_width": 5,
+    "grid_height": 5,
+    "move_count": 30,
+    "grid": [
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "bo",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "r"
+    ]
+}
